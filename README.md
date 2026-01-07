@@ -25,3 +25,8 @@ and regions using visual analysis.
 
 ---
 Dashboard visuals and insights will be added next.
+
+## Dashboard Preview
+
+![Superstore Dashboard Overview](visuals/dashboard_overview.png)
+

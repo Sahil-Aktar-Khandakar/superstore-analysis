@@ -22,3 +22,6 @@ and regions using visual analysis.
 - State-wise and product-wise sales comparison
 - Interactive metric-based analysis
 
+
+---
+Dashboard visuals and insights will be added next.

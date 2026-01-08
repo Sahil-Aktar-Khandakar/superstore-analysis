@@ -15,9 +15,9 @@ and regions using visual analysis.
 
 ## What is analyzed
 - Sales, profit, and quantity trends over time
-- Category and sub-category performance
-- State-wise and product-wise sales comparison
-- Interactive metric-based analysis
+- Category and segment performance
+- State wise sales comparison
+- Interactive metric based analysis
 
 
 ---
@@ -28,14 +28,12 @@ Dashboard visuals and insights will be added next.
 ![Superstore Dashboard Overview](visuals/dashboard_overview_v1.png)
 
 ## Key Insights
-Technology is the top-performing category, contributing the highest share of total sales (~36%), followed by Furniture and Office Supplies, which show relatively similar contributions.
+-Technology is the top-performing category, contributing the highest share of total sales (about 36%), followed by Furniture and Office Supplies, each contributing over 30%.
 
-Consumer segment drives the majority of sales (over 50%), significantly outperforming Corporate and Home Office segments, indicating strong demand from individual consumers.
+-The Consumer segment generates more than half of total sales, outperforming the Corporate and Home Office segments.
 
-Sales are geographically concentrated, with California and New York contributing a disproportionately high share of total sales compared to other states.
+-Sales are highly concentrated in California and New York, while most other states contribute relatively smaller sales volumes.
 
-Sales and Quantity trends show consistent growth over time, suggesting steady demand with periodic fluctuations rather than sharp volatility.
+-Sales and quantity show a steady upward trend over time, while profit fluctuates more compared to sales.
 
-Metric comparison (Sales, Profit, Quantity) highlights that high sales volume does not always correspond to equally high profit, emphasizing the need to analyze profitability separately.
-
-
+-Comparison across Sales, Profit, and Quantity shows that products with high sales volume do not always generate high profit.

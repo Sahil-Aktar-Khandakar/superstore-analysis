@@ -8,7 +8,7 @@ and regions using visual analysis.
 
 ## Dataset
 - Sample Superstore dataset
-- Includes sales, profit, quantity, category, sub-category, state, and order date
+- Analysis focuses on sales performance using key fields such as: sales, profit, quantity, category, sub-category, state, and order date
 
 ## Tools Used
 - Tableau

@@ -25,5 +25,5 @@ Dashboard visuals and insights will be added next.
 
 ## Dashboard Preview
 
-![Superstore Dashboard Overview](visuals/dashboard_overview.png)
+[Superstore Dashboard Overview](visuals/dashboard_overview.png)
 

@@ -27,5 +27,15 @@ Dashboard visuals and insights will be added next.
 
 ![Superstore Dashboard Overview](visuals/dashboard_overview_v1.png)
 
+## Key Insights
+Technology is the top-performing category, contributing the highest share of total sales (~36%), followed by Furniture and Office Supplies, which show relatively similar contributions.
+
+Consumer segment drives the majority of sales (over 50%), significantly outperforming Corporate and Home Office segments, indicating strong demand from individual consumers.
+
+Sales are geographically concentrated, with California and New York contributing a disproportionately high share of total sales compared to other states.
+
+Sales and Quantity trends show consistent growth over time, suggesting steady demand with periodic fluctuations rather than sharp volatility.
+
+Metric comparison (Sales, Profit, Quantity) highlights that high sales volume does not always correspond to equally high profit, emphasizing the need to analyze profitability separately.
 
 

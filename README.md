@@ -1,10 +1,11 @@
 # Superstore Analysis
 
-This project analyzes sales data from the Superstore dataset to understand
-sales performance, profitability, and product trends.
+## Project Overview
 
-The objective is to explore patterns across time, categories, products,
-and regions using visual analysis.
+This project analyzes sales data using an interactive Tableau dashboard.
+The objective is to understand sales distribution, trends, and performance
+across categories, customer segments, and states.
+
 
 ## Dataset
 - Sample Superstore dataset
